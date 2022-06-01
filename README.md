@@ -1,8 +1,8 @@
 # AlphaSolid
 
-- 😀 Hello ~~World~~ There! I joined GitHub recently, because I am bored...
+- 😀 Hello ~~World~~ There! I joined GitHub recently
 
-- 👀 I'm interested in coding ever since 7 years old.
+- 👀 I may be interested in coding, but my coding skills sucks
 
 - 🧐 I am currently learning Backend Programming Languages (Java, Python, etc)
 
