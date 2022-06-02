@@ -8,7 +8,7 @@
 
 - 🐧 I’m looking to collaborate on a **sus** project
 
-- 📫 How to reach me? There's no need to do that, bye
+- 📫 How to reach me? I dont think there's a need to do that, bye
 
 <!---
 AlphaSolid/AlphaSolid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
