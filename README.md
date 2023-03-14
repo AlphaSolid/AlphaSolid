@@ -1,10 +1,10 @@
 # AlphaSolid
 
-- 😀 Hello, I apologise for being offline for some reasons
+- 😀 This account is in dormant state
 
-- 👀 Being offline for a long period doesn't mean I quit programming/coding, it is still my interest
+- 👀 I'm trying to wake this account out of dormant state by making progress
 
-- 🧐 I am slowly learning some Backend Programming Languages (Java, Python, etc)
+- 🧐 I am currently learning some Backend Programming Languages (Java, Python, etc)
 
 - 🐧 I would like to be involved in a simple project, as I have nothing to do
 
