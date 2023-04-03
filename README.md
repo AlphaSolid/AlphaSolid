@@ -6,7 +6,7 @@
 
 - 🧐 I am currently learning some Backend Programming Languages (Java, Python, etc)
 
-- 🐧 I would like to be involved in a simple project, as I have nothing to do
+- 🐧 I would like to be involved in a simple project, as I currently can't contribute much to the society
 
 - 📫 I dont think there's a need to contact me at this time of the decade, anyways bye
 
