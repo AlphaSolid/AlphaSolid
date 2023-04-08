@@ -1,14 +1,12 @@
 # AlphaSolid
 
-- 😀 This account is in dormant state
+### 🧐 What I do
+- Nothing to contribute to the society 💀
 
-- 👀 I'm trying to wake this account out of dormant state by making progress
+### 🤔 What I'm currently working on
+- Random projects
 
-- 🧐 I am currently learning some Backend Programming Languages (Java, Python, etc)
 
-- 🐧 I would like to be involved in a simple project, as I currently can't contribute much to the society
-
-- 📫 I dont think there's a need to contact me at this time of the decade, anyways bye
 
 <!---
 AlphaSolid/AlphaSolid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
