@@ -1,10 +1,10 @@
 # AlphaSolid
 
 ### 🧐 What I do
-- Nothing to contribute to the society 💀
+- Nothing that is able to contribute to the society 🥶
 
 ### 🤔 What I'm currently working on
-- Random projects
+- Random simple projects
 
 
 
